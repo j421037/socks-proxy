@@ -1,1 +1,1 @@
-/usr/bin/c++   -pthread -g   CMakeFiles/relay.dir/main.cpp.o  -o relay  -L/data/code/cpp/relay/./lib -Wl,-rpath,/data/code/cpp/relay/./lib -Wl,-Bstatic -lmuduo_base -lmuduo_net -Wl,-Bdynamic 
+/usr/bin/c++   -pthread -g   CMakeFiles/relay.dir/main.cpp.o  -o relay   -L/home/steve/projects/c++/socks-proxy/./lib  -Wl,-rpath,/home/steve/projects/c++/socks-proxy/./lib -Wl,-Bstatic -lmuduo_base -lmuduo_net -Wl,-Bdynamic 

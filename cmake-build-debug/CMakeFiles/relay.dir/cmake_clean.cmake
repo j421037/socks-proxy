@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/relay.dir/main.cpp.o"
-  "relay.pdb"
   "relay"
+  "relay.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
