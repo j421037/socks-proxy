@@ -1,0 +1,3 @@
+/data/code/cpp/relay/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/data/code/cpp/relay/cmake-build-debug/CMakeFiles/relay.dir
+/data/code/cpp/relay/cmake-build-debug/CMakeFiles/edit_cache.dir

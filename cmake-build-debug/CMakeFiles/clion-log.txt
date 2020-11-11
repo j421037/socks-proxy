@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /data/code/cpp/relay
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /data/code/cpp/relay/cmake-build-debug
